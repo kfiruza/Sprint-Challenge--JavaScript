@@ -56,5 +56,6 @@ const external = "I'm outside the function";
   console.log(internal);
   };
   nestedFunction();
-}
+ }
+ 
  myFunction();

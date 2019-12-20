@@ -144,6 +144,7 @@ zooAnimals.forEach(function(animals){
 displayNames.push(`Name: ${animals.animal_name}, Scientific: ${animals.scientific_name}.`)
 })    
 
+
 console.log(displayNames);
 
 /* Request 2: .map()
